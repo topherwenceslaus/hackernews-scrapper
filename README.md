@@ -1,5 +1,5 @@
 # hackernews-scrapper
-Hackernews scrapping api based om promise
+Hackernews scrapping api based on promise(async/await)
 
     Sample Output
     
